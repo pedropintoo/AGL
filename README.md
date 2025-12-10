@@ -4,19 +4,6 @@
 
 The language is built on the concept of an infinite **Canvas** where figures are instantiated, and **Views** which act as viewports capturing specific regions, zoom levels, and timeframes of that canvas. $AG_L$ supports primitive shapes, complex constructive geometry, custom model definitions with reactive properties, and a dedicated runtime scripting extension ($xAG_L$).
 
-## Table of Contents
-
-  - [Demos](https://www.google.com/search?q=%23demos)
-  - [Architecture & Workflow](https://www.google.com/search?q=%23architecture--workflow)
-  - [Language Specification](https://www.google.com/search?q=%23language-specification)
-      - [Data Types](https://www.google.com/search?q=%23data-types)
-      - [Views & Canvas](https://www.google.com/search?q=%23views--canvas)
-      - [Graphic Objects](https://www.google.com/search?q=%23graphic-objects)
-      - [Control Flow](https://www.google.com/search?q=%23control-flow)
-  - [Advanced Modeling](https://www.google.com/search?q=%23advanced-modeling)
-  - [Scripting with xAGL](https://www.google.com/search?q=%23scripting-with-xagl)
-  - [Repository Structure](https://www.google.com/search?q=%23repository-structure)
-
 -----
 
 ## Demos
